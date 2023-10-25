@@ -437,11 +437,7 @@ footer p {
 }
 /*media query for mobile page*/
 
-/*@media screen and (max-width: 580px) {
-  #section3logos {
-    display: flex;
-  }
-}*/
+
 @media screen and (min-width: 767px) {
   #section3logos {
     grid-template-columns: repeat(2, 1fr);
